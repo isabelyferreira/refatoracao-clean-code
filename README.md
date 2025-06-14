@@ -1,39 +1,38 @@
-# Refatoração de Código e Boas Práticas do Clean Code
 
-## 💻 Descrição
-Este projeto tem como objetivo demonstrar a refatoração de um código legado aplicando os princípios de Clean Code e boas práticas de desenvolvimento, como SOLID, DRY, KISS e YAGNI.
+# Projeto de Refatoração - Clean Code e Boas Práticas
 
-## 🔧 Tecnologias
+## 📌 Descrição
+Este projeto tem como objetivo aplicar os princípios do **Clean Code** na refatoração de um código legado. A atividade faz parte do trabalho acadêmico da disciplina de Engenharia de Software, que visa melhorar a legibilidade, manutenibilidade e eficiência do código sem alterar sua funcionalidade.
+
+## 🔨 Tecnologias Utilizadas
 - Python 3.x
-- Paradigma de Programação Orientada a Objetos
-- Testes Unitários com `unittest`
+- Biblioteca padrão (math)
+- unittest (para testes)
 
-## 🚀 Como executar
+## 🎯 Objetivos Atendidos
+- Aplicação de princípios SOLID, DRY, KISS e YAGNI.
+- Implementação do Design Pattern **Factory**.
+- Criação de testes unitários.
+- Organização de código orientado a objetos.
+
+## 🚀 Como Executar
 1. Clone o repositório:
 ```
-git clone https://github.com/seuusuario/refatoracao-clean-code.git
+git clone https://github.com/isabelyferreira/refatoracao-clean-code.git
 ```
-2. Acesse a pasta do projeto:
-```
-cd refatoracao-clean-code
-```
-3. Execute o código:
+
+2. Execute o código:
 ```
 python formas.py
 ```
-4. Execute os testes:
+
+3. Execute os testes:
 ```
-python test_formas.py
+python -m unittest test_formas.py
 ```
 
-## 🏗️ Estrutura
-- `formas.py`: código principal
-- `test_formas.py`: testes unitários
-- `README.md`: documentação do projeto
+## 🔗 Link do Projeto
+[👉 Acesse aqui o repositório no GitHub](https://github.com/isabelyferreira/refatoracao-clean-code.git)
 
-## 🔗 Link do projeto
-Disponível em: [https://github.com/seuusuario/refatoracao-clean-code](https://github.com/seuusuario/refatoracao-clean-code)
-
-## 👨‍💻 Feito por
-- Seu Nome
-- Universidade / Disciplina
+## 👩‍💻 Autora
+- Isabely Victoria dos Santos Ferreira - RA: 825127259
